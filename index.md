@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Accueil"
+order: 0
+in_menu: true
+---
+# Les doigts qui dansent 
+
+![Trio LDQD Grange-rouge 2025]({% link images/dqd_gen2.png %})
+
+Notre trio est le fruit d'une heureuse rencontre. Il est né de la surprise d'entendre les sonorités de nos trois instruments se marier avec autant de bonheur. Il se nourrit du désir de dédier notre musique à la seule chose qui lui donne du sens: **la danse**.
+
+Anne-Pierre Pittet: _harpe celtique_\
+Jean-Claude Carlioz: _accordéon chromatique_\
+Nicolas Lartillot: _violon_ 
+
