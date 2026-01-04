@@ -13,7 +13,8 @@ title: Contact
 
 N'hésitez pas à nous contacter, nous serons heureux.se de prendre le temps de vous écouter, de nous présenter, de nous adapter à vos besoins et peut-être de construire de nouveaux projets autour de la danse folk avec vous!..
 
-annepierrepittet@gmail.com\
-nicolas.lartillot@gmail.com
+<a href="mailto:annepierrepittet&#64;example&#46;com">
+  nous contacter par mail
+<\a>
 
 
