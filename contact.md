@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <img
-  src="{{ site.baseurl }}/assets/images/dqd_carte.png"
+  src="{{ site.baseurl }}/assets/images/dqd_carte.jpg"
   alt="Carte de visite"
   class="image-galerie"
 />
