@@ -1,11 +1,21 @@
 ---
 layout: default
-title: Accueil
+title: Evenements
 ---
 
-# Bienvenue
+# Liste de nos bals passés
 
-Ceci est la page d’accueil de notre site.
+_n'hésitez pas à contacter les assos qui nous ont invité.es pour avoir leur avis sur nos prestations!_
 
-Présentation de l’association, du projet, etc.
+## Bals publis en invités
+
+31 décembre 2025. Nuit du réveillon; bal à Soulangis\
+2 novembre 2025. Bal au Briscope à Brignais
+
+## Autres bals et concerts publics
+
+## Bals privés
+
+
+
 
