@@ -5,8 +5,7 @@ order: 0
 in_menu: true
 ---
 # Les doigts qui dansent 
-## Musique trad et folk pour la danse\
-## violon, harpe celtique, accordéon chromatique et chant
+## Musique trad et folk pour la danse
 
 <img
   src="{{ site.baseurl }}/assets/images/dqd_gen2.png"
@@ -16,7 +15,7 @@ in_menu: true
 
 Notre trio est le fruit d'une heureuse rencontre. Il est né de la surprise d'entendre les sonorités de nos trois instruments se marier avec autant de bonheur. Il se nourrit du désir de dédier notre musique à la seule chose qui lui donne du sens: **la danse**.
 
-Anne-Pierre Pittet: _harpe celtique_\
-Jean-Claude Carlioz: _accordéon chromatique_\
-Nicolas Lartillot: _violon_ 
+Anne-Pierre Pittet: _harpe celtique et chant_\
+Jean-Claude Carlioz: _accordéon chromatique et chant_\
+Nicolas Lartillot: _violon et chant_ 
 
