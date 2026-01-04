@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-# Contact
+# Voulez-vous danser avec nous ?
 
 <img
   src="{{ site.baseurl }}/assets/images/dqd_carte.jpg"

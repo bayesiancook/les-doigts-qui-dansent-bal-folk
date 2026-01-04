@@ -5,6 +5,8 @@ order: 0
 in_menu: true
 ---
 # Les doigts qui dansent 
+## Musique trad et folk pour la danse\
+## violon, harpe celtique, accordéon chromatique et chant
 
 <img
   src="{{ site.baseurl }}/assets/images/dqd_gen2.png"

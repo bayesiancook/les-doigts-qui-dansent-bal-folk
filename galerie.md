@@ -3,7 +3,7 @@ layout: default
 title: Galerie
 ---
 
-# Voulez vous danser avec nous?
+# Quelques pistes audio et video..
 
 ... a venir...
 
