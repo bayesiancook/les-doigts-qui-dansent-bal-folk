@@ -32,7 +32,6 @@ h2 {
 }
 
 .image-galerie {
-  max-width: 600px;
   width: 100%
   height: auto
   display: block
@@ -45,7 +44,7 @@ main img {
 }
 
 main {
-  max-width: 700 px;
+  max-width: 500 px;
   margin: 0 auto;
   padding: 2em 1em;
 }
