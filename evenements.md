@@ -13,7 +13,7 @@ title: Evenements
 
 _n'hésitez pas à contacter les assos qui nous ont invité.es pour avoir leur avis sur nos prestations!_
 
-## Bals publis en invités
+## Bals publics en invités
 
 - 31 décembre 2025. Nuit du réveillon; bal à Soulangis
 - 2 novembre 2025. Bal au Briscope à Brignais
