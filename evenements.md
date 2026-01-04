@@ -15,8 +15,8 @@ _n'hésitez pas à contacter les assos qui nous ont invité.es pour avoir leur a
 
 ## Bals publis en invités
 
-31 décembre 2025. Nuit du réveillon; bal à Soulangis\
-2 novembre 2025. Bal au Briscope à Brignais
+- 31 décembre 2025. Nuit du réveillon; bal à Soulangis
+- 2 novembre 2025. Bal au Briscope à Brignais
 
 ## Autres bals et concerts publics
 
