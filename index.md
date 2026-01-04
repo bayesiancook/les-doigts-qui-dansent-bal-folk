@@ -6,7 +6,7 @@ in_menu: true
 ---
 # Les doigts qui dansent 
 
-![Trio LDQD Grange-rouge 2025]({% link images/dqd_gen2.png %})
+![Trio LDQD Gennetines 2025]({{ site.baseurl }}/assets/images/dqd_gen2.png)
 
 Notre trio est le fruit d'une heureuse rencontre. Il est né de la surprise d'entendre les sonorités de nos trois instruments se marier avec autant de bonheur. Il se nourrit du désir de dédier notre musique à la seule chose qui lui donne du sens: **la danse**.
 
