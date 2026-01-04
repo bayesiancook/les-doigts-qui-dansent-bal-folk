@@ -18,6 +18,7 @@ _aquarelle: crédit Aurélien Alrivie_
 
 - 31 décembre 2025. Nuit du réveillon; bal à Soulangis
 - 2 novembre 2025. Bal au Briscope à Brignais
+- ...
 
 ## Autres bals et concerts publics
 
