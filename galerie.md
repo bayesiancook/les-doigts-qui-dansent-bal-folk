@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Accueil
+title: Galerie
 ---
 
-# Bienvenue
+# Voulez vous danser avec nous?
 
-Ceci est la page d’accueil de notre site.
-
-Présentation de l’association, du projet, etc.
+... a venir...
 
