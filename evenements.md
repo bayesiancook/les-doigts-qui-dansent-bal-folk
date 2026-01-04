@@ -11,7 +11,8 @@ title: Evenements
   class="image-galerie"
 />
 
-_n'hésitez pas à contacter les assos qui nous ont invité.es pour avoir leur avis sur nos prestations!_
+_aquarelle: crédit Aurélien Alrivie_
+
 
 ## Bals publics en invités
 
