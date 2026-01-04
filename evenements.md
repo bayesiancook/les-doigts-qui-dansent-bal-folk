@@ -6,7 +6,7 @@ title: Evenements
 # Liste de nos bals passés
 
 <img
-  src="{{ site.baseurl }}/assets/images/doigtsquidansent.jpg"
+  src="{{ site.baseurl }}/assets/images/aquarelle_aurelien.jpg"
   alt="Trio Les Doigts qui Dansent, Avignon, 2024"
   class="image-galerie"
 />
