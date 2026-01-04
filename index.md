@@ -4,14 +4,6 @@ title: Accueil
 order: 0
 in_menu: true
 ---
-# Les doigts qui dansent 
-## Musique trad et folk pour la danse
-
-<img
-  src="{{ site.baseurl }}/assets/images/dqd_gen2.png"
-  alt="Trio Les Doigts qui Dansent, Gennetines, 2025"
-  class="image-galerie"
-/>
 
 <div class="hero">
     <img src="{{ site.baseurl }}/assets/images/dqd_gen2.png" alt="">
