@@ -40,13 +40,12 @@ h2 {
 }
 
 main img {
-    max-width: 800px;
     width: 100%;
     height: auto;
 }
 
 main {
-  max-width: 600 px;
+  max-width: 700 px;
   margin: 0 auto;
   padding: 2em 1em;
 }
