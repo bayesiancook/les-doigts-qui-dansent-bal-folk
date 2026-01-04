@@ -14,7 +14,7 @@ in_menu: true
 />
 
 <div class="hero">
-    <img src="{{ site.baseurl }}/assets/images/dqd_gen2.png", alt="">
+    <img src="{{ site.baseurl }}/assets/images/dqd_gen2.png" alt="">
     <div class="hero-text">
         <h1>Les doigts qui dansent</h1>
         <p>Musique trad et folk pour la danse</p>
