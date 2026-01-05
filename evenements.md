@@ -17,20 +17,20 @@ _aquarelle: crédit Aurélien Alrivie_
 ## Bals invités
 
 - 31 décembre 2025. Soulangis (Cher); bal du réveillon.
-- 15 décembre 2025. Genève (Suisse); bal de Noël, <a href="https://www.pourlebal.ch/">Pour Le Bal</a>.
+- 15 décembre 2025. Genève (Suisse); bal de Noël de <a href="https://www.pourlebal.ch/">_Pour Le Bal_</a>.
 - 14 décembre 2025. Aveize (Rhône); bal de _Folk des Courtines_.
-- 7 décembre 2025. Albens (Savoie); bal de Noël, Atout Folk.
+- 7 décembre 2025. Albens (Savoie); bal de Noël de _Atout Folk_.
 - 2 novembre 2025. Brignais (Rhône); bal de <a href="https://www.brignais-trad.fr">_Brignais-Trad_</a>.
-- 30 août 2025. Culoz (Savoie); festival Trad en Bugey, <a href="https://www.louvfolk.com">Louv'Folk</a>.
+- 30 août 2025. Culoz (Savoie); festival Trad en Bugey, <a href="https://www.louvfolk.com">_Louv'Folk_</a>.
 - 19 avril 2025. Cognin (Savoie); bal de l'Hirondelle, <a href="https://amtrad.net">_Amtrad_</a>.
-- 29 mars 2025. Tenay (Ain); grand bal de <a href="https://sofolkeux.wixsite.com/sofolk">SoFolk</a>.
-- 22 mars 2025. Metz-Tessy (Savoie); bal de <a href="https://www.helloasso.com/associations/croc-danse">Croc'Danse</a>.
-- 25 janvier 2025. Passenans (Jura); bal de La Passerelle.
-- 10 janvier 2025. Sâles (Savoie); bal de <a href="https://gigouillette.org/">la Gigouillette</a>.
+- 29 mars 2025. Tenay (Ain); grand bal de <a href="https://sofolkeux.wixsite.com/sofolk">_SoFolk_</a>.
+- 22 mars 2025. Metz-Tessy (Savoie); bal de <a href="https://www.helloasso.com/associations/croc-danse">_Croc'Danse_</a>.
+- 25 janvier 2025. Passenans (Jura); bal de _La Passerelle_.
+- 10 janvier 2025. Sâles (Savoie); bal de <a href="https://gigouillette.org/">_la Gigouillette_</a>.
 
 ## Autres bals et concerts publics
 
-- 15 novembre 2025. Les 12h du Bal (La Grange Rouge).
+- 15 novembre 2025. Les 12h du Bal (_La Grange Rouge_).
 - août 2025. Genève; Bal plein air de _Pour Le Bal_.
 - août 2025. Scène ouverte au _Grand Bal de l'Europe_.
 - juin 2025. Trad en Fête (_La Grange Rouge_).
