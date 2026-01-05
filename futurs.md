@@ -15,7 +15,7 @@ title: Futurs
   alt="Trio Les Doigts qui Dansent, , 2024"
   class="image-galerie"
 />
-_crédit Line Lamy_ <a href="https://www.patchoulyne-quilt.com">(créations visibles ici!)</a>
+_crédit Lyne Lamy_ <a href="https://www.patchoulyne-quilt.com">(créations visibles ici!)</a>
 
 
 
