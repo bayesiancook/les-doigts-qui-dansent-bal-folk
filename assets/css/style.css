@@ -19,6 +19,7 @@ h2 {
 .navbar {
   background: #333;
   padding: 1em;
+  font-size: 18px;
 }
 
 .navbar a {
