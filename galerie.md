@@ -22,12 +22,12 @@ title: Galerie
 <div class="media-gallery">
   <!-- Image -->
   <div class="media-item">
-    <img src="{{ site.baseurl }}/assets/images/dqd_boulange.jpg" alt="Photo 1">
+    <img src="{{ site.baseurl }}/assets/images/doigtsquidansent.jpg" alt="Avignon1">
   </div>
 
   <!-- Another Image -->
   <div class="media-item">
-    <img src="{{ site.baseurl }}/assets/images/doigtsquidansent.jpg" alt="Photo 2">
+    <img src="{{ site.baseurl }}/assets/images/dqd_avignon.jpg" alt="Avignon2">
   </div>
 
 </div>
