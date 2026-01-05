@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Galerie
@@ -19,14 +20,14 @@ title: Galerie
 
 </div>
 
-<div class="media-gallery">
+<div class="photo-gallery">
   <!-- Image -->
-  <div class="media-item">
+  <div class="photo-item">
     <img src="{{ site.baseurl }}/assets/images/doigtsquidansent.jpg" alt="Avignon1">
   </div>
 
   <!-- Another Image -->
-  <div class="media-item">
+  <div class="photo-item">
     <img src="{{ site.baseurl }}/assets/images/dqd_avignon.jpg" alt="Avignon2">
   </div>
 

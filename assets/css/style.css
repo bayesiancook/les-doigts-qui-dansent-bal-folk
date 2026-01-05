@@ -81,6 +81,14 @@ h2 {
   object-fit: cover; /* crop images nicely */
 }
 
+.photo-item {
+    position: relative;
+    width: 100%;
+    padding-bottom: 60%;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
 /* Responsive YouTube videos */
 .video-container {
   position: relative;
