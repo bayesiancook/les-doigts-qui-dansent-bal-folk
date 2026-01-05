@@ -31,13 +31,10 @@ _aquarelle: crédit Aurélien Alrivie_
 ## Autres bals et concerts publics
 
 - 15 novembre 2025. Branges (Saône et Loire); Les 12h du Bal (La Grange Rouge).
-- août 2025. Genève (Suisse); Bal plein air ().
+- août 2025. Genève (Suisse); Bal plein air organisé par Pour Le Bal.
 - août 2025. Gennetines (Allier); Scène ouverte au Grand Bal de l'Europe.
 - juin 2025. La Chapelle-Naude (Saône et Loire); Scène ouverte à Trad en Fête (La Grange Rouge).
 - 26 avril 2025. Lyon (Rhône); Bal à la Boulangerie du Prado.
 
 ## Bals privés
-
-
-
 
