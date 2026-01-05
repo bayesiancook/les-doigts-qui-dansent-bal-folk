@@ -102,12 +102,13 @@ h2 {
   grid-template-columns: repeat(2, 1fr);
   gap: 1em;
   margin: 2em 0;
+  width: 100%;
 }
 
 .photo-item {
   position: relative;
   width: 100%;
-  padding-bottom: 60%; /* aspect ratio 5:3 (adjust as needed) */
+  aspect-ratio: 16 / 9;
   overflow: hidden;
   border-radius: 8px;
 }
