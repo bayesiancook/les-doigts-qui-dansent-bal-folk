@@ -28,7 +28,7 @@ _aquarelle: crédit Aurélien Alrivie_
 - 25 janvier 2025. Passenans (Jura); bal de _La Passerelle_.
 - 10 janvier 2025. Sâles (Savoie); bal de <a href="https://gigouillette.org/">_la Gigouillette_</a>.
 
-## Autres bals et concerts publics
+## Autres bals publics
 
 - 15 novembre 2025. Les 12h du Bal (_La Grange Rouge_).
 - août 2025. Genève; Bal plein air de _Pour Le Bal_.
