@@ -13,7 +13,7 @@ Jean-Claude Carlioz: _accordéon chromatique et chant_\
 Nicolas Lartillot: _violon et chant_
 
 <img
-  src="{{ site.baseurl }}/assets/images/dqd_gen2.png"
+  src="{{ site.baseurl }}/assets/images/dqd_gen2.jpg"
   alt="Trio Les Doigts qui Dansent, Gennetines, 2025"
   class="image-galerie"
 />
