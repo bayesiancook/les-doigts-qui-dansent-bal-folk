@@ -21,8 +21,8 @@ _aquarelle: crédit Aurélien Alrivie_
 - 14 décembre 2025. Aveize (Rhône); bal organisé par Folk des Courtines.
 - 7 décembre 2025. Albens (Savoie); bal de Noël organisé par Atout Folk
 - 2 novembre 2025. Brignais (Rhône); bal organisé par <a href="https://www.brignais-trad.fr">Brignais-Trad</a>.
-- 30 août 2025. Culoz (Savoie); festival Trad en Bugey organisé par <a href="https://www.louvfolk.com">louv'Folk</a>.
-- 19 avril 2025. Cognin (Savoie); bal de l'Hirondelle organisé par <a href="https://https://amtrad.net">Amtrad</a>.
+- 30 août 2025. Culoz (Savoie); festival Trad en Bugey organisé par <a href="https://www.louvfolk.com">Louv'Folk</a>.
+- 19 avril 2025. Cognin (Savoie); bal de l'Hirondelle organisé par <a href="https://amtrad.net">Amtrad</a>.
 - 29 mars 2025. Tenay (Ain); grand bal de <a href="https://sofolkeux.wixsite.com/sofolk">SoFolk</a>.
 - 22 mars 2025. Metz-Tessy (Savoie); bal organisé par <a href="https://www.helloasso.com/associations/croc-danse">Croc'Danse</a>.
 - 25 janvier 2025. Passenans (Jura); bal organisé par La Passerelle.
