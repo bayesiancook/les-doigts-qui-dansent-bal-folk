@@ -1,11 +1,9 @@
-
 ---
 layout: default
 title: Galerie
 ---
 
 <div class="media-gallery">
-
   <div class="media-item">
     <div class="video-container">
       <iframe src="https://www.youtube.com/embed/ygavX-Kjo0A" title="Teaser" frameborder="0" allowfullscreen></iframe>
