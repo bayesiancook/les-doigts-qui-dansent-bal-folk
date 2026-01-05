@@ -18,6 +18,9 @@ Nicolas Lartillot: _violon et chant_
   class="image-galerie"
 />
 
-Notre trio est le fruit d'une heureuse rencontre. Il est né de la surprise d'entendre les sonorités de nos trois instruments se marier avec autant de bonheur. Il se nourrit du désir de dédier notre musique à la seule chose qui lui donne du sens: **la danse**.
+Les Doigts qui dansent, c'est l'heureuse rencontre en 2022 de trois musiciens découvrant le monde de la musique folk. 
+Notre trio est né de la surprise d'entendre les sonorités de nos trois instruments se marier avec autant de bonheur. 
+Nous avons au fil du temps pris plaisir à soigner l'arrangement de nos morceaux et chansons (trad, compos, quelques reprises parfois) et fait le choix d'un répertoire de danses très varié.
 
+Nous vous souhaitons la bienvenue dans l'univers tout en finesse des Doigts qui dansent !
 
