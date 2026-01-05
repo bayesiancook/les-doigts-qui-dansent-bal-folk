@@ -3,7 +3,7 @@ layout: default
 title: Evenements
 ---
 
-# Liste de nos bals passés
+# Évènements passés
 
 <img
   src="{{ site.baseurl }}/assets/images/aquarelle_aurelien.png"
