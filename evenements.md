@@ -20,7 +20,7 @@ _aquarelle: crédit Aurélien Alrivie_
 - 15 décembre 2025. Genève (Suisse);
 - 14 décembre 2025. Aveize (Rhône);
 - 7 décembre 2025. Albens (Savoie);
-- 2 novembre 2025. Brignais (Rhône);
+- 2 novembre 2025. Brignais (Rhône); bal organisé par <a href="https://www.brignay-trad.fr">Brignay-Trad</a>.
 - 30 août 2025. Culoz (Savoie); festival Trad en Bugey organisé par LouvFolk.
 - 19 avril 2025. Cognin (Savoie); bal organisé par AmTrad.
 - 29 mars 2025. Tenay (Ain);
