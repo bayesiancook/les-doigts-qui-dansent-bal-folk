@@ -22,7 +22,7 @@ title: Galerie
 
   <div class="audio-item">
     <div class="audio-card">
-      <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="Mazurka">
+      <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="Mazurka des Profondeurs">
       <iframe
         src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/les-doigts-qui-dansent/la-mazurka-les-profondeurs&auto_play=true&hide_related=true&show_comments=false&show_reposts=false"
         allow="autoplay">
@@ -32,9 +32,9 @@ title: Galerie
 
   <div class="audio-item">
     <div class="audio-card">
-      <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="Mazurka">
+      <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="En prenant ta main (Gavotte)">
       <iframe
-        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/les-doigts-qui-dansent/la-mazurka-les-profondeurs&auto_play=true&hide_related=true&show_comments=false&show_reposts=false"
+        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/les-doigts-qui-dansent/mix-gavote-de-laven&auto_play=true&hide_related=true&show_comments=false&show_reposts=false"
         allow="autoplay">
       </iframe>
     </div>
