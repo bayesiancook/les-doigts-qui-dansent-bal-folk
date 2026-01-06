@@ -3,6 +3,8 @@ layout: default
 title: Galerie
 ---
 
+## Vidéos
+
 <div class="media-gallery">
   <div class="media-item">
     <div class="video-container">
@@ -17,6 +19,8 @@ title: Galerie
   </div>
 
 </div>
+
+## Pistes sonores
 
 <div class="audio-gallery">
 
@@ -47,6 +51,8 @@ title: Galerie
   </div>
 
 </div>
+
+## Photos
 
 <div class="photo-gallery">
   <!-- Image -->
