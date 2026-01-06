@@ -68,7 +68,7 @@ h2 {
 .media-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1em;
+  gap: 1.5rem;
   margin: 2em 0;
 }
 
@@ -101,7 +101,7 @@ h2 {
 .photo-gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1em;
+  gap: 1.5rem;
   margin: 2em 0;
   width: 100%;
 }
