@@ -8,9 +8,9 @@ in_menu: true
 # Les doigts qui dansent 
 ## Musique trad et folk pour la danse
 
-Nicolas Lartillot: _violon et chant_
+Nicolas Lartillot: _violon et chant_\
 Anne-Pierre Pittet: _harpe celtique et chant_\
-Jean-Claude Carlioz: _accordéon chromatique et chant_\
+Jean-Claude Carlioz: _accordéon chromatique et chant_
 
 <img
   src="{{ site.baseurl }}/assets/images/dqd_gen2.jpg"
