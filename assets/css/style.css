@@ -69,7 +69,7 @@ h2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
-  margin: 3em 0;
+  margin: 2em 0;
 }
 
 /* Individual items (images or videos) */
@@ -86,7 +86,7 @@ h2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
-  margin: 3em 0;
+  margin: 2em 0;
   width: 100%;
 }
 
@@ -111,7 +111,7 @@ h2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
-  margin: 3em 0;
+  margin: 2em 0;
 }
 
 .audio-card {
