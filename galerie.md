@@ -19,18 +19,6 @@ title: Galerie
     </div>
   </div>
 
-  <div class="media-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/ygavX-Kjo0A" title="Teaser" frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
-
-  <div class="media-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/Rn513gy3J-g" title="Congo nouvel an" frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
-
 </div>
 
 ## Pistes sonores 
