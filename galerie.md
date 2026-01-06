@@ -59,12 +59,18 @@ title: Galerie
 ## Photos
 
 <div class="photo-gallery">
-  <!-- Image -->
+  <div class="photo-item">
+    <img src="{{ site.baseurl }}/assets/images/dqd_geneve.jpg" alt="Geneve">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ site.baseurl }}/assets/images/dqd_grangerouge.jpg" alt="La Grange Rouge">
+  </div>
+
   <div class="photo-item">
     <img src="{{ site.baseurl }}/assets/images/doigtsquidansent.jpg" alt="Avignon1">
   </div>
 
-  <!-- Another Image -->
   <div class="photo-item">
     <img src="{{ site.baseurl }}/assets/images/dqd_avignon.jpg" alt="Avignon2">
   </div>
