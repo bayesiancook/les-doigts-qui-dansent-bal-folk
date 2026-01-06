@@ -5,10 +5,10 @@ title: Futurs
 
 # Évènements à venir 
 
-- 24 janvier 2026. Miribel les Échelles (Savoie); <a href="https://www.helloasso.com/associations/familles-rurales-association-de-miribel-les-echelles/evenements/miribal-folk">Miri'bal Folk</a>.
-- 14 mars 2026. Bal à Grenoble.
-- 29 août 2026. Belley (Ain). Bal folk de rentrée de <a href="https://www.louvfolk.com/">Louv'Folk</a>.
-- 31 décembre 2026. Bal à Lons le Saunier.
+- 24 janvier 2026. Miribel les Échelles (Savoie), <a href="https://www.helloasso.com/associations/familles-rurales-association-de-miribel-les-echelles/evenements/miribal-folk">Miri'bal Folk</a>.
+- 14 mars 2026. Bal à Saint Martin de la Cluze (Isère).
+- 29 août 2026. Belley (Ain). Bal folk de rentrée, <a href="https://www.louvfolk.com/">Louv'Folk</a>.
+- 31 décembre 2026. Bal à Domblans (Jura), <a href="https://www.helloasso.com/associations/alonsenfolk">Alonsenfolk</a>.
 
 <img
   src="{{ site.baseurl }}/assets/images/line.jpg"

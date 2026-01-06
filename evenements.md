@@ -27,17 +27,22 @@ _aquarelle: crédit Aurélien Alrivie_
 - 22 mars 2025. Metz-Tessy (Savoie); bal de <a href="https://www.helloasso.com/associations/croc-danse">_Croc'Danse_</a>.
 - 25 janvier 2025. Passenans (Jura); bal de _La Passerelle_.
 - 10 janvier 2025. Sâles (Savoie); bal de <a href="https://gigouillette.org/">_la Gigouillette_</a>.
+- 22 décembre 2023. Simandre (Saône et Loire); bal de Noël, <a href="https://www.liondor.org/">_Les Accords du Lyon d'Or_</a>.
 
 ## Autres bals publics
 
-- 15 novembre 2025. Les 12h du Bal (_La Grange Rouge_).
-- août 2025. Genève; Bal plein air de _Pour Le Bal_.
-- août 2025. Scène ouverte au _Grand Bal de l'Europe_.
-- juin 2025. Trad en Fête (_La Grange Rouge_).
+- 15 novembre 2025. Les 12h du Folk, _La Grange Rouge_.
+- 25 août 2025. Genève; Bal plein air de _Pour Le Bal_.
+- 1er août 2025. Scène ouverte au _Grand Bal de l'Europe_.
+- 14 juin 2025. Trad en Fête, _La Grange Rouge_.
 - 26 avril 2025. Bal à la Boulangerie du Prado, Lyon.
 
 ## Bals privés
 
-...
+- 14 mars 2025. Aranc (Ain).
+- 28 juin 2024. Aranc (Ain).
+- 26 mai 2024. Sillingy (Savoie).
+
+
 
 
