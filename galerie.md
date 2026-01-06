@@ -20,6 +20,8 @@ title: Galerie
 
 </div>
 
+### plus de vidéos sur notre <a href="https://www.youtube.com/channel/UC451uLCGTOlIMfgBq2etCnA">chaine YouTube</a> et notre <a href="https://www.facebook.com/p/Les-doigts-qui-dansent-61556193159522/">page Facebook</a>.
+
 ## Pistes sonores
 
 <div class="audio-gallery">
@@ -52,6 +54,8 @@ title: Galerie
   </div>
 
 </div>
+
+### plus de pistes sonores sur notre <a href="https://soundcloud.com/les-doigts-qui-dansent">page SoundCloud</a>.
 
 ## Photos
 
