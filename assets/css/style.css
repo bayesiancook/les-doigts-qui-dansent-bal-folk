@@ -67,7 +67,7 @@ h2 {
 /* Gallery grid */
 .media-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
   margin: 2em 0;
 }
@@ -106,7 +106,6 @@ h2 {
   height: 100%;
   object-fit: cover; /* crops image to fill the box */
 }
-
 
 .audio-gallery {
   display: grid;
@@ -174,7 +173,6 @@ h2 {
 .audio-card.active iframe {
   display: block;
 }
-
 
 main img {
     max-width: 500 px;
