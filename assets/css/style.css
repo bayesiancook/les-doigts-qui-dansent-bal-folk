@@ -123,6 +123,44 @@ h2 {
   object-fit: cover; /* crops image to fill the box */
 }
 
+
+.audio-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+.audio-card {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.audio-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+
+.audio-card iframe {
+  display: none;
+  width: 100%;
+  height: 220px;
+  border: none;
+}
+
+.audio-card.active img {
+  display: none;
+}
+
+.audio-card.active iframe {
+  display: block;
+}
+
+
 main img {
     max-width: 500 px;
     width: 100%;
