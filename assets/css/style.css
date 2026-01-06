@@ -155,8 +155,8 @@ h2 {
 .audio-title {
   position: absolute;
   bottom: 16px;
-  left: 100px;
-  right: 100px;
+  left: 12px;
+  right: 12px;
   transform: translateY(50%);
 
   text-align: center;
