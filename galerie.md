@@ -3,7 +3,8 @@ layout: default
 title: Galerie
 ---
 
-## Vidéos (voir aussi notre <a href="https://www.youtube.com/channel/UC451uLCGTOlIMfgBq2etCnA">chaine YouTube</a> et notre <a href="https://www.facebook.com/p/Les-doigts-qui-dansent-61556193159522/">page Facebook</a>).
+## Vidéos 
+### (voir aussi notre <a href="https://www.youtube.com/channel/UC451uLCGTOlIMfgBq2etCnA">chaine YouTube</a> et notre <a href="https://www.facebook.com/p/Les-doigts-qui-dansent-61556193159522/">page Facebook</a>).
 
 <div class="media-gallery">
   <div class="media-item">
@@ -20,9 +21,8 @@ title: Galerie
 
 </div>
 
-### voir aussi notre <a href="https://www.youtube.com/channel/UC451uLCGTOlIMfgBq2etCnA">chaine YouTube</a> et notre <a href="https://www.facebook.com/p/Les-doigts-qui-dansent-61556193159522/">page Facebook</a>.
-
-## Pistes sonores
+## Pistes sonores 
+### (voir aussi notre <a href="https://soundcloud.com/les-doigts-qui-dansent">page SoundCloud</a>).
 
 <div class="audio-gallery">
 
@@ -55,7 +55,6 @@ title: Galerie
 
 </div>
 
-### plus encore sur notre <a href="https://soundcloud.com/les-doigts-qui-dansent">page SoundCloud</a>.
 
 ## Photos
 
