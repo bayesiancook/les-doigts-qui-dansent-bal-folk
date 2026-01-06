@@ -53,7 +53,7 @@ h2 {
   position: relative;
   width: 100%;
   padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  margin: 2em 0;          /* spacing */
+  margin: 1em 0;          /* spacing */
 }
 
 .video-container iframe {
