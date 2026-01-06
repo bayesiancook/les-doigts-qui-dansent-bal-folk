@@ -39,7 +39,7 @@ _aquarelle: crédit Aurélien Alrivie_
 
 ## Bals privés
 
-- 14 mars 2025. Aranc (Ain).
+- 14 mars 2025. Aranc (Ain). Bal pour tes 50 ans...
 - 28 juin 2024. Aranc (Ain).
 - 26 mai 2024. Sillingy (Savoie).
 
