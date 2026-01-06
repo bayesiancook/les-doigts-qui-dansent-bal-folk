@@ -41,7 +41,8 @@ title: Galerie
     <div class="audio-card">
       <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="En prenant ta main (Gavotte)">
       <div class="audio-title">
-         En prenant ta main\(Gavotte) 
+         En prenant ta main\
+         (Gavotte) 
       </div>
       <iframe
         src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/les-doigts-qui-dansent/mix-gavote-de-laven&auto_play=true&hide_related=true&show_comments=false&show_reposts=false"
