@@ -11,8 +11,7 @@ title: Evenements
   class="image-galerie"
 />
 
-_aquarelle: crédit Aurélien Alrivie_
-
+_aquarelle: crédit Adrien Alrivie_ <a href="https://www.adrienalrivie.fr">(créations visibles ici!)</a>
 
 ## Bals invités
 
