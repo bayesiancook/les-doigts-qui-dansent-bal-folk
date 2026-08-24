@@ -7,11 +7,6 @@ title: Galerie
 ### (voir aussi notre <a href="https://www.youtube.com/channel/UC451uLCGTOlIMfgBq2etCnA">chaine YouTube</a> et notre <a href="https://www.facebook.com/p/Les-doigts-qui-dansent-61556193159522/">page Facebook</a>).
 
 <div class="media-gallery">
-  <div class="media-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/ygavX-Kjo0A" title="Teaser" frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
 
   <div class="media-item">
     <div class="video-container">
@@ -22,6 +17,12 @@ title: Galerie
   <div class="media-item">
     <div class="video-container">
       <iframe src="https://www.youtube.com/embed/ER0uPoVe0w0" title="Brud Polska" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="media-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/ygavX-Kjo0A" title="Teaser" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 
