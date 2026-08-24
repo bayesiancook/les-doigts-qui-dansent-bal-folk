@@ -16,13 +16,13 @@ title: Galerie
 
   <div class="media-item">
     <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/ER0uPoVe0w0" title="Brud Polska" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/ygavX-Kjo0A" title="Teaser" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 
   <div class="media-item">
     <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/ygavX-Kjo0A" title="Teaser" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/ER0uPoVe0w0" title="Brud Polska" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 
