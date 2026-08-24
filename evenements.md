@@ -15,6 +15,8 @@ _aquarelle: crédit Adrien Alrivie_ <a href="https://www.adrienalrivie.fr">(cré
 
 ## Bals invités
 
+- 14 mars 2026. Bal à Saint Martin de la Cluze (Isère).
+- 24 janvier 2026. Miribel les Échelles (Savoie), <a href="https://www.helloasso.com/associations/familles-rurales-association-de-miribel-les-echelles/evenements/miribal-folk">Miri'bal Folk</a>.
 - 31 décembre 2025. Soulangis (Cher); bal du réveillon.
 - 15 décembre 2025. Genève (Suisse); bal de Noël de <a href="https://www.pourlebal.ch/">_Pour Le Bal_</a>.
 - 14 décembre 2025. Aveize (Rhône); bal de _Folk des Courtines_.
