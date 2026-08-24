@@ -32,6 +32,7 @@ _aquarelle: crédit Adrien Alrivie_ <a href="https://www.adrienalrivie.fr">(cré
 
 ## Autres bals publics
 
+- 3 août 2026. Scène ouverte au _Grand Bal de l'Europe_.
 - 15 novembre 2025. Les 12h du Folk, _La Grange Rouge_.
 - 25 août 2025. Genève; Bal plein air de _Pour Le Bal_.
 - 1er août 2025. Scène ouverte au _Grand Bal de l'Europe_.
