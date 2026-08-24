@@ -34,6 +34,34 @@ title: Galerie
 
   <div class="audio-item">
     <div class="audio-card">
+      <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="Old Reinlender from Sonndala (Scottish)">
+      <div class="audio-title">
+          <span class="title-main">Old Reinlender from Sonndala</span>
+          <span class="title-sub">(Scottish)</span>
+      </div>
+      <iframe
+        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/les-doigts-qui-dansent/old-reinlender-from-sonndala&auto_play=true&hide_related=true&show_comments=false&show_reposts=false"
+        allow="autoplay">
+      </iframe>
+    </div>
+  </div>
+
+  <div class="audio-item">
+    <div class="audio-card">
+      <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="A nau sous lo bon vin (Congo)">
+      <div class="audio-title">
+          <span class="title-main">A nau sous lo bon vin</span>
+          <span class="title-sub">(Congo)</span>
+      </div>
+      <iframe
+        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/les-doigts-qui-dansent/congo-a-nau-sous-lo-bon-vin&auto_play=true&hide_related=true&show_comments=false&show_reposts=false"
+        allow="autoplay">
+      </iframe>
+    </div>
+  </div>
+
+  <div class="audio-item">
+    <div class="audio-card">
       <img src="{{ site.baseurl }}/assets/images/dqd_carte.jpg" alt="Mazurka des Profondeurs">
       <div class="audio-title">
           Mazurka des profondeurs
